@@ -1,0 +1,183 @@
+body {
+  font-family: 'Noto Sans SC', sans-serif;
+  margin: 0;
+}
+
+.about-container {
+  background: url('bg.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 110%;
+}
+h1 {
+    color: rgb(159, 10, 40);
+    font-size: 45px;
+    font-weight: normal;
+    margin-bottom: 0;
+}
+
+h2 {
+   color: rgb(159, 10, 40);
+   font-size: 25px;
+   margin-top: 0;
+}
+
+h3 {
+  text-align: center;
+  font-size: 28px;
+  font-weight: normal;
+  margin-top: 95px;
+  color: rgb(159, 10, 40);
+}
+
+h4 {
+  text-align: center;
+  font-size: 24px;
+  color: rgb(159, 10, 40);
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+  color: rgb(159, 10, 40);
+}
+.Bio {
+  color: rgb(159, 10, 40);
+  font-size: 14px;
+}
+
+.me {
+  height: 240px;
+  margin-top: 15px;
+  border-radius: 100%;
+  border-style: solid;
+  border-color: rgb(159, 10, 40);
+}
+.about {
+    width: 400px;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+   font-weight: 700px;
+}
+
+.grey {
+  height: 4px;
+  background-color: #919191;
+  border: none;
+  width: 70px;
+}
+
+.yellow {
+  border-top: 5px double #F5A623;
+  width: 300px;
+  border-bottom: none;
+  border-right: none;
+}
+
+.box {
+  float: left;
+  width: 42.5%;
+  margin-left: 5%;
+  margin-top: 80px;
+}
+
+.clear {
+  clear: both;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.skills-and-tools {
+  max-width: 400px;
+  margin: 40px auto;
+}
+
+.icons {
+  text-align: center;
+}
+
+.icon {
+  margin: 30px 0;
+}
+
+.contact-me {
+  height: 350px;
+  background-color: #202020;
+  padding-top: 30px;
+
+}
+
+.contact-headline {
+  color: white;
+}
+
+.contact-info {
+  color: white;
+  font-size: 13px;
+  margin-top: 30px;
+}
+
+.contact-link {
+  color: white;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.nav-link {
+  color: rgb(159, 10, 40);
+  text-decoration: none;
+  padding-top: 25px;
+}
+
+li {
+  display: inline-block;
+  font-size: 12px;
+  width: 275px;
+  font-weight: bold;
+  margin-top: 30px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.hire-me {
+  border-style: solid;
+  border-color: rgb(159, 10, 40);
+}
+
+#btnScrollToTop {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  border: none;
+  background: rgb(159, 10, 40);
+  box-shadow:  0 0 10px rgb(0,0,0,0.25);
+  color: #ffffff;
+  outline:none;
+  cursor: pointer;
+}
+
+#btnScrollToTop:active {
+  background: rgb(159, 10, 10);
+}
+
+
+
+.stars {
+background: black url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/1231630/stars.png) repeat;
+padding-top: 5;
+}
