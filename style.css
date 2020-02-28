@@ -3,13 +3,33 @@ body {
   margin: 0;
 }
 
+
+.flixter{
+  text-align: center;
+}
+
+.linkedin {
+  margin-top: 30px;
+  margin-bottom: none;
+  height: 70px;
+  width: auto;
+  margin-left: 25px;
+}
+
+.github {
+  margin-top: none;
+  margin-bottom: 6px;
+  margin-bottom: none;
+  height: 59px;
+}
+
 .about-container {
   background: url('bg.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 110%;
+  height: 140%
 }
 h1 {
     color: rgb(159, 10, 40);
