@@ -3,6 +3,10 @@ body {
   margin: 0;
 }
 
+.grammable {
+  text-align: center;
+
+}
 
 .flixter{
   text-align: center;
@@ -57,6 +61,8 @@ h4 {
   font-size: 24px;
   color: rgb(159, 10, 40);
 }
+
+
 
 p {
   text-align: center;
